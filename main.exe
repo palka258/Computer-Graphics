@@ -1,0 +1,12 @@
+DEMO FILE - NOT A REAL EXECUTABLE
+
+This is a demonstration file generated from main.py.
+This file will NOT run as an executable on your computer.
+
+For real Python to EXE conversion, please use:
+- PyInstaller: pip install pyinstaller
+- auto-py-to-exe: pip install auto-py-to-exe
+- cx_Freeze: pip install cx_Freeze
+
+Original file: main.py
+Generated: 28.11.2025, 10:38:48
